@@ -1,8 +1,10 @@
 six>=1.6.0
 Flask
+Flask-WTF
 pymongo
 xlwt
-paramiko==1.15.3
 packaging
 appdirs
-gunicorn
+gunicorn==19.9.0
+pycparser==2.18
+cryptography
